@@ -28,3 +28,8 @@
 - 作成: wiki/assets/ea4f46c9-8c19-42d6-bf58-57934758b713-image.png
 - 更新: wiki/sources/最適化支援.md, wiki/entities/最適化支援.md, wiki/concepts/最適化専門家エージェント.md
 
+## [2026-05-12] ingest | raw/20260512/AI4SE.md
+- 作成: wiki/entities/AI4SE.md, wiki/entities/DENSO光庭.md
+- 作成: wiki/concepts/DCP.md
+- 更新: wiki/entities/AI研.md, wiki/index.md
+
