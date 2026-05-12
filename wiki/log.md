@@ -24,3 +24,7 @@
 - 作成: wiki/concepts/AIガレージ.md, One-Path.md
 - 更新: wiki/index.md
 
+## [2026-05-12] update | raw/20260512/最適化支援.md image handling
+- 作成: wiki/assets/ea4f46c9-8c19-42d6-bf58-57934758b713-image.png
+- 更新: wiki/sources/最適化支援.md, wiki/entities/最適化支援.md, wiki/concepts/最適化専門家エージェント.md
+
