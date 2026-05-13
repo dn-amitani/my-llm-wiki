@@ -33,3 +33,9 @@
 - 作成: wiki/concepts/DCP.md
 - 更新: wiki/entities/AI研.md, wiki/index.md
 
+## [2026-05-13] move | organization pages to wiki/entities/org
+- 移動: wiki/entities/AI研.md, IT基盤推進部.md, 人事企画部.md, DENSO光庭.md, 富士ソフト.md, ザイオンデータ.md
+- 作成: wiki/entities/org/AI研.md, IT基盤推進部.md, 人事企画部.md, DENSO光庭.md, 富士ソフト.md, ザイオンデータ.md
+- 更新: 参照元 wikilink を entities/org 配下へ変更
+
+
