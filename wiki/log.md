@@ -38,4 +38,10 @@
 - 作成: wiki/entities/org/AI研.md, IT基盤推進部.md, 人事企画部.md, DENSO光庭.md, 富士ソフト.md, ザイオンデータ.md
 - 更新: 参照元 wikilink を entities/org 配下へ変更
 
+## [2026-05-13] ingest | raw/20260513/議事.md
+- 作成: wiki/entities/DAIKU.md
+- 作成: wiki/entities/org/JBS.md, wiki/entities/org/経営基盤プロセス改革部.md
+- 作成: wiki/concepts/トヨタグループデータ活用基盤.md
+- 更新: wiki/entities/全豊田.md, wiki/entities/最適化支援.md, wiki/entities/業績分析AI.md, wiki/index.md
+
 
