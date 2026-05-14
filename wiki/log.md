@@ -1,5 +1,9 @@
 # Wiki 操作ログ
 
+## [2026-05-14] ingest | raw/20260514/議事.md
+- 作成: wiki/entities/AI研年計.md
+- 更新: wiki/entities/org/AI研.md, wiki/entities/DAIKU.md, wiki/index.md
+
 ## [2026-05-12] ingest | raw/20260512/デジ本.md
 - 作成: wiki/sources/デジ本.md
 - 作成: wiki/entities/IT基盤推進部.md, AI研.md, チャットボット.md, 富士ソフト.md, 業績分析AI.md
