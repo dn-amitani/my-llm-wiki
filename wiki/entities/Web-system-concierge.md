@@ -1,8 +1,8 @@
 ---
 title: Web-system-concierge
 tags: [プロジェクト, AI研, PoC]
-sources: [raw/20260512/デジ本.md]
-date: 2026-05-12
+sources: [raw/20260512/デジ本.md, raw/20260515/議事メモ.md]
+date: 2026-05-15
 ---
 
 # Web-system-concierge
@@ -15,5 +15,9 @@ date: 2026-05-12
 - [[知識蒸留]]の適用検討を開始。
 - [[entities/org/IT基盤推進部|IT基盤推進部]]の橋詰Mより、古いシステム刷新案件への適用可能性を示唆されている。
 
+## 状況（2026-05-15時点）
+- 知識構造化Projとあわせて、R&D展のストーリーをトップダウンで決めたい意向が共有された。by 高野橋さん
+
 ## 関連
 - 協業先: [[entities/org/IT基盤推進部|IT基盤推進部]]
+

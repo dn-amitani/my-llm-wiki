@@ -1,5 +1,9 @@
 # Wiki 操作ログ
 
+## [2026-05-15] ingest | raw/20260515/議事メモ.md
+- 作成: wiki/concepts/DSPy.md
+- 更新: wiki/concepts/知識蒸留.md, wiki/entities/最適化支援.md, wiki/entities/Web-system-concierge.md, wiki/index.md
+
 ## [2026-05-14] ingest | raw/20260514/議事.md
 - 作成: wiki/entities/AI研年計.md
 - 更新: wiki/entities/org/AI研.md, wiki/entities/DAIKU.md, wiki/index.md
