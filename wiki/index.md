@@ -9,6 +9,7 @@ date: 2026-05-12
 
 ## Entities
 - [[entities/AI4SE|AI4SE]] - AI のソフトウェア開発適用に関するテーマ
+- [[AI専門家委員会]] - 経営層へAI技術の兆しをインプットする委員会
 - [[AI研年計]] - AI研の2026年度方針を整理した計画ページ
 - [[DAIKU]] - パワトレ事業Gへの業務適用とグループ内展開を進める取り組み
 - [[Web-system-concierge]] - AI研開発のWebシステム向けコンシェルジュ
@@ -21,6 +22,7 @@ date: 2026-05-12
 - [[entities/org/IT基盤推進部|IT基盤推進部]] - ITデジ本配下の協業相手部署（橋詰M, 横山, 葛谷）
 - [[entities/org/人事企画部|人事企画部]] - 人材データ解析のプロジェクトの協業先
 - [[entities/org/AI研|AI研]] - 筆者の所属組織
+- [[entities/org/DIIN|DIIN]] - インドでのインターン受け入れに関わる組織・枠組み
 - [[entities/org/JBS|JBS]] - DAIKU関連で負荷テスト案を作成した協業先
 - [[チャットボット]] - IT基盤推進部のFY26質疑応答チャットボット
 - [[entities/org/富士ソフト|富士ソフト]] - Web-system-conciergeのブラシュアップ協力ベンダー
