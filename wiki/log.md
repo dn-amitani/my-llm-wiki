@@ -7,6 +7,10 @@ date: 2026-05-19
 
 # Wiki 操作ログ
 
+## [2026-05-19] ingest | raw/20260519/議事メモ.md
+- 作成: wiki/entities/Utkarsh.md
+- 更新: wiki/concepts/最適化専門家エージェント.md, wiki/entities/Web-system-concierge.md, wiki/concepts/DSPy.md, wiki/entities/AI4SE.md, wiki/entities/業績分析AI.md, wiki/orgs/経営基盤プロセス改革部.md, wiki/index.md
+
 ## [2026-05-19] move | organization pages to wiki/orgs
 - 移動: wiki/entities/org/AI研.md, wiki/entities/org/DENSO光庭.md, wiki/entities/org/DIIN.md, wiki/entities/org/IT基盤推進部.md, wiki/entities/org/JBS.md, wiki/entities/org/ザイオンデータ.md, wiki/entities/org/人事企画部.md, wiki/entities/org/富士ソフト.md, wiki/entities/org/経営基盤プロセス改革部.md
 - 作成: wiki/orgs/AI研.md, wiki/orgs/DENSO光庭.md, wiki/orgs/DIIN.md, wiki/orgs/IT基盤推進部.md, wiki/orgs/JBS.md, wiki/orgs/ザイオンデータ.md, wiki/orgs/人事企画部.md, wiki/orgs/富士ソフト.md, wiki/orgs/経営基盤プロセス改革部.md

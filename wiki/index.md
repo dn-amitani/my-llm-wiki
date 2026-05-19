@@ -13,6 +13,7 @@ date: 2026-05-19
 - [[entities/中途採用面談|中途採用面談]] - AI研の中途採用候補者に関する面談メモと評価観点
 - [[entities/AI研年計|AI研年計]] - AI研の2026年度方針を整理した計画ページ
 - [[entities/DAIKU|DAIKU]] - パワトレ事業Gへの業務適用とグループ内展開を進める取り組み
+- [[entities/Utkarsh|Utkarsh]] - 3D reconstruction 向けデータセット調査タスクを持つ人物
 - [[entities/Web-system-concierge|Web-system-concierge]] - AI研開発のWebシステム向けコンシェルジュ
 - [[entities/人中心システム|人中心システム]] - IT基盤推進部との協業プロジェクト
 - [[entities/最適化支援|最適化支援]] - 最適化業務を支援するプロジェクト
