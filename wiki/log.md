@@ -7,6 +7,10 @@ date: 2026-05-19
 
 # Wiki 操作ログ
 
+## [2026-05-19] merge | concepts/最適化専門家エージェント -> entities/最適化支援
+- 削除: wiki/concepts/最適化専門家エージェント.md
+- 更新: wiki/entities/最適化支援.md, wiki/index.md
+
 ## [2026-05-19] ingest | raw/20260519/議事メモ.md
 - 作成: wiki/entities/Utkarsh.md
 - 更新: wiki/concepts/最適化専門家エージェント.md, wiki/entities/Web-system-concierge.md, wiki/concepts/DSPy.md, wiki/entities/AI4SE.md, wiki/entities/業績分析AI.md, wiki/orgs/経営基盤プロセス改革部.md, wiki/index.md

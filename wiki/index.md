@@ -39,7 +39,6 @@ date: 2026-05-19
 - [[concepts/DCP|DCP]] - DENSO Champion Process の略称
 - [[concepts/DSPy|DSPy]] - 指示文や Few-Shot 例の最適化を扱うフレームワーク
 - [[concepts/知識蒸留|知識蒸留]] - 大モデルから小モデルへ知識を移す手法
-- [[concepts/最適化専門家エージェント|最適化専門家エージェント]] - 最適化支援の中核AIエージェント構想
 - [[concepts/AIガレージ|AIガレージ]] - 全豊田WG3で議論の中心へ寄ってきたAI関連テーマ
 - [[concepts/One-Path|One-Path]] - CAE-Agentで4Qに通すことを目標とする連携先または統合経路
 - [[concepts/トヨタグループデータ活用基盤|トヨタグループデータ活用基盤]] - 全豊田WG3で議論されているトヨタグループ向けデータ基盤
