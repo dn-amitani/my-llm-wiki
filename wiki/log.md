@@ -1,4 +1,16 @@
+---
+title: Wiki 操作ログ
+tags: [log]
+sources: []
+date: 2026-05-19
+---
+
 # Wiki 操作ログ
+
+## [2026-05-19] move | organization pages to wiki/orgs
+- 移動: wiki/entities/org/AI研.md, wiki/entities/org/DENSO光庭.md, wiki/entities/org/DIIN.md, wiki/entities/org/IT基盤推進部.md, wiki/entities/org/JBS.md, wiki/entities/org/ザイオンデータ.md, wiki/entities/org/人事企画部.md, wiki/entities/org/富士ソフト.md, wiki/entities/org/経営基盤プロセス改革部.md
+- 作成: wiki/orgs/AI研.md, wiki/orgs/DENSO光庭.md, wiki/orgs/DIIN.md, wiki/orgs/IT基盤推進部.md, wiki/orgs/JBS.md, wiki/orgs/ザイオンデータ.md, wiki/orgs/人事企画部.md, wiki/orgs/富士ソフト.md, wiki/orgs/経営基盤プロセス改革部.md
+- 更新: wiki/index.md, wiki/entities/中途採用面談.md, wiki/entities/業績分析AI.md, wiki/entities/AI4SE.md, wiki/entities/AI研年計.md, wiki/entities/DAIKU.md, wiki/entities/Web-system-concierge.md, wiki/entities/チャットボット.md, wiki/entities/人材データ解析_with_人事企画.md, wiki/entities/人中心システム.md, wiki/orgs/AI研.md, wiki/orgs/DIIN.md, wiki/orgs/ザイオンデータ.md
 
 ## [2026-05-19] ingest | raw/20260518/議事メモ.md
 - 作成: wiki/entities/中途採用面談.md
